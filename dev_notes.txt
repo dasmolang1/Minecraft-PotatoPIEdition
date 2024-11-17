@@ -1,0 +1,43 @@
+24.08.24
+
+Habe das angefangen und war ganz cool-
+dan mithilfe von chatgpt das snapping geschafft und dann habe ich noch texturen hinzugefügt (23 - 0 uhr)
+
+25.08.24
+
+Spiele jetzt noch valorant. Bin fertig für heute (platzierbarer grassblock) (0:33)
+
+25.08.24
+
+Habe jetzt eine block wechsel funktion hinzugefügt, und passend dazu einen stein.
+Das beste, man kann jetzt mit 'r' resseten. (Alpha 002).
+
+Zack release dann auch direkt die erste exe mit neuem icon YAY!
+
+Hatte richtig bock weiterzumachen (:
+Habe jetzt mit de HILFE von cahtgpt laden hinzugefügt - habe aber viel wenn nicht sogar 70% selbst dazuaddiert.
+neuer erdeblock (Alpha 003)
+
+Und zu guter letzt noch die versionsnummer oben rechts im minecraft font (: (Alpha 004)
+
+27.08.24
+
+Habe jetzt Programmer Art gemacht (gehen morgen ins bbz btw) und den erde und neuen sand block als baubare blöcke hinzugefügt. 
+Neue Dateinstruktur mit Texturepack support!
+(Alpha 005)
+
+30.08.24
+
+Wasser ist da!
+Texturen? Von mir.
+Das geilste. Hab herausgekriegt wie man eine wasser verbreitung simulieren kann. ist nix super krasses aber das ich selber geschafft hab ist krass.
+
+(Alpha 006)
+
+So habe jetzt nocht mit der hilfe von chatgpt level saving hinzugefügt. habe aber den path und die level namen und anordnung selbst gemacht (:
+
+(Alpha 007)
+
+Jetzt noch ein help menu hinzugefügt was man mit 'H' öffnen kann und mit r oder l schliessen kann.
+
+(Alpha 008)
